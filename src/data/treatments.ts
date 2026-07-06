@@ -87,7 +87,7 @@ export const treatmentData: TreatmentCategory[] = [
         notes: "bisa by request (PO)", 
         isPO: true,
         description: "Perawatan anti-aging tingkat lanjut menggunakan formula premium impor (seperti Rejuran Healer atau Profhilo) untuk rekonstruksi struktur kulit dari dalam, mengencangkan kulit kendur, dan mengecilkan pori secara dramatis.",
-        image: "/skinbooster_premium.png"
+        image: "/skinbooster_premium.jpg"
       }
     ]
   }

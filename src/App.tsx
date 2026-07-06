@@ -357,7 +357,7 @@ export default function App() {
                 {/* Main arched picture frame containing cosmetics hero image */}
                 <div className="relative w-[84%] h-[92%] rounded-[120px] overflow-hidden border-[6px] border-white shadow-2xl bg-cream-300">
                   <img 
-                    src="/cosmetics_hero.png" 
+                    src="/cosmetics_hero.jpg" 
                     alt="Sunny's Corner Luxury Cosmetic Flatlay" 
                     className="w-full h-full object-cover object-center scale-100 hover:scale-105 transition-transform duration-700 ease-out"
                   />
