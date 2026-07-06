@@ -786,7 +786,7 @@ export default function App() {
                 <span className="font-serif text-xl font-bold tracking-tight">Sunny's Corner</span>
               </div>
               <p className="text-xs sm:text-sm text-sage-200/70 leading-relaxed font-light">
-                Glow & Lash Bar menghadirkan solusi perawatan kulit wajah glowing bersinar, skin booster PO premium, infus whitening, serta Korean eyelash extension profesional langsung ke tempat hunian Anda.
+                Glow & Lash Bar menghadirkan solusi perawatan kulit wajah glowing bersinar, skin booster PO premium, injeksi treatment, serta Korean eyelash extension profesional langsung ke tempat hunian Anda.
               </p>
               <div className="flex items-center gap-3 pt-2">
                 <a 

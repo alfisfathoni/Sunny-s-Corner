@@ -38,7 +38,7 @@ export const treatmentData: TreatmentCategory[] = [
     ]
   },
   {
-    categoryName: "Infus Whitening",
+    categoryName: "Injeksi Treatment",
     items: [
       { 
         name: "Injeksi Keloid & Jerawat", 
