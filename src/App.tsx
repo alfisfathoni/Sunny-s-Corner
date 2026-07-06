@@ -256,7 +256,7 @@ export default function App() {
       <div className="bg-sage-800 text-cream-100 py-2.5 px-4 text-xs md:text-sm font-medium tracking-wide text-center flex flex-col sm:flex-row items-center justify-center gap-1.5 sm:gap-4 transition-all duration-300 relative z-20">
         <span className="flex items-center gap-1.5 justify-center">
           <Truck className="w-4 h-4 text-sage-300 shrink-0" />
-          <span>*Ongkir menyesuaikan start 10k s/d 50k (tergantung jaraknya)</span>
+          <span>*Ongkir menyesuaikan start 20k s/d 330k (tergantung jaraknya)</span>
         </span>
         <span className="hidden sm:inline text-sage-500">|</span>
         <span className="flex items-center gap-1.5 justify-center">
@@ -413,7 +413,7 @@ export default function App() {
                 </div>
                 <div>
                   <span className="block text-xs uppercase tracking-wider font-bold text-sage-700">Transport Ongkir</span>
-                  <p className="text-base font-bold text-charcoal-900 mt-1">Start 10k s/d 50k</p>
+                  <p className="text-base font-bold text-charcoal-900 mt-1">Start 20k s/d 330k</p>
                   <p className="text-xs text-charcoal-700 font-light mt-1">Biaya kirim disesuaikan jarak dari Wagir.</p>
                 </div>
               </div>
@@ -740,7 +740,7 @@ export default function App() {
                 <Truck className="w-5.5 h-5.5 text-sage-600 shrink-0 mt-0.5" />
                 <div>
                   <span className="font-bold text-sage-900 block mb-0.5">Ketentuan Pemesanan Homecare:</span>
-                  <span>Treatment ini dikerjakan langsung di rumah Anda. Hubungi kami melalui WhatsApp untuk konfirmasi alamat dan kalkulasi biaya transport (*ongkir transport Jawa Timur start 10k - 50k sesuai jarak tempuh).</span>
+                  <span>Treatment ini dikerjakan langsung di rumah Anda. Hubungi kami melalui WhatsApp untuk konfirmasi alamat dan kalkulasi biaya transport (*ongkir transport Jawa Timur start 20k - 330k sesuai jarak tempuh).</span>
                 </div>
               </div>
 
